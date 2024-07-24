@@ -1,6 +1,8 @@
-<h2>CG-Video-Gallery</h2>
+# React + Vite
 
-<p>This the base of beautiful video interative landing page</p>
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-<p>Feel free to use</p>
-<strong>All rights reserved, Lucas Santana - https://brazilianbeast.github.io/</strong>
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
